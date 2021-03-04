@@ -14,7 +14,7 @@ Also, the kit includes the following two datasets:
 *	FUZWASD.m: function for finding the optimal number of hidden-layer neurons, along with the optimal activation function power at each hidden-layer neuron
 *	Qmatrix.m: function for calculating the matrix Q
 *	predictN.m: function for predicting
-*	error_pred.m: function for calculating the MAE of the prediction
+*	error_pred.m: function for calculating the mean absolute error (MAE) of the prediction
 *	flc_1.fis: fuzzy logic controller for the WDBC dataset
 *	flc_2.fis: fuzzy logic controller for the TmiRNABCD dataset
 
@@ -27,7 +27,7 @@ Also, the kit includes the following two datasets:
 After running the 'Main_MI_FUZWASDN.m file, the package outputs are the following:
 *	The optimal number of hidden-layer neurons.
 *	The optimal activation function power of each hidden-layer neuron.
-*	The prediction of the testing samples.
+*	The prediction and MAE of the testing samples.
 *	The graphic illustration of the testing and predicting performance.
 
 # Environment
