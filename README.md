@@ -11,6 +11,7 @@ Also, the kit includes the following two datasets:
 # M-files Description
 *	Main_MI_FUZWASDN.m: the main function
 *	problem.m: input data and parameters of the MI-FUZWASDN
+*	problem_figures.m: figures illustrating the problem's findings
 *	FUZWASD.m: function for finding the optimal number of hidden-layer neurons, along with the optimal activation function power at each hidden-layer neuron
 *	Qmatrix.m: function for calculating the matrix Q
 *	predictN.m: function for predicting
