@@ -17,6 +17,10 @@ Also, the kit includes the following two datasets:
 *	error_pred.m: function for calculating the mean absolute error (MAE) of the prediction
 *	flc_1.fis: fuzzy logic controller for the WDBC dataset
 *	flc_2.fis: fuzzy logic controller for the TmiRNABCD dataset
+*	trainedmodel1.mat: trained neural network model under linear SVM method for the WDBC dataset
+*	trainedmodel2.mat: trained neural network model under fine KNN method for the WDBC dataset
+*	trainedmodel3.mat: trained neural network model under linear SVM method for the TmiRNABCD dataset
+*	trainedmodel4.mat: trained neural network model under fine KNN method for the TmiRNABCD dataset
 
 # Installation
 *	Unzip the file you just downloaded and copy the MI-FUZWASDN directory to a location,e.g.,/my-directory/
