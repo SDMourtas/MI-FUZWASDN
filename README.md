@@ -2,7 +2,7 @@
 Implementation of a fast 5-layer feed-forward neuronet model for classification that was trained using a fuzzy WASD (weights-and-structure-determination) algorithm called FUZWASD.\
 The purpose of this package is to predict whether the breast cancer is benign or malignant. By considering this problem's approach through neuronet and by using the weight direct determination (WDD) method, the FUZWASD algorithm uses a fuzzy logic controller (FLC) to map the input data into a specific interval that enhances the accuracy of the WDD method. In this way, the FUZWASD algorithm detects the optimal weights and structure of the multi-input FUZWASD neuronet (MI-FUZWASDN) using a power softplus activation function and while handling the model fitting and validation.\
 The main articles used are the followings:
-*	T.E. Simos, V.N.Katsikis, S.D.Mourtas, "A Fuzzy WASD Neuronet with Application in Breast Cancer Prediction," (submitted)
+*	T.E. Simos, V.N.Katsikis, S.D.Mourtas, "A Fuzzy WASD Neuronet with Application in Breast Cancer Prediction," Neural Computing and Applications (2021)
 
 Also, the kit includes the following two datasets:
 *	Wisconsin diagnostic breast cancer (WDBC), taken from https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
