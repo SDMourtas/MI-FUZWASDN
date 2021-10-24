@@ -12,8 +12,8 @@
 %                                                                   %
 %   Main paper: T.E. Simos, S.D.Mourtas, V.N.Katsikis,              %
 %               "A Fuzzy WASD Neuronet with Application in Breast   %
-%               Cancer Prediction," (submitted)                     %
-%                                                                   %
+%               Cancer Prediction," Neural Computing and            %
+%               Applications (2021)                                 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear 
